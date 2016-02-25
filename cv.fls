@@ -261,9 +261,10 @@ INPUT cv.out
 INPUT cv.out
 INPUT cv.out
 OUTPUT cv.out
-INPUT img/programming.pdf
+INPUT img/programing.png
+INPUT img/PhD.png
 INPUT img/personal.png
-INPUT img/italia.png
+INPUT img/map.png
 INPUT img/5stars.png
 INPUT img/4stars.png
 INPUT img/4stars.png

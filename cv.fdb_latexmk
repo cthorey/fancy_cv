@@ -1,9 +1,9 @@
 # Fdb version 3
-["biber cv"] 1456353366 "cv.bcf" "cv.bbl" "cv" 1456354036
-  "cv.bcf" 1456353372 100635 0cfc0017b4eab5e76683d13e8ca654ae ""
+["biber cv"] 1456392052 "cv.bcf" "cv.bbl" "cv" 1456405494
+  "cv.bcf" 1456405494 100635 0cfc0017b4eab5e76683d13e8ca654ae ""
   (generated)
-  "cv.blg"
   "cv.bbl"
+  "cv.blg"
 ["latex"] 1456353158 "cv.tex" "cv.dvi" "cv" 1456353158
   "/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls" 1428932888 20708 96f8bca6e380179cada1d49716376167 ""
   "/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo" 1428932888 9179 632e23fed01c842f2eaef1dd9953a446 ""
@@ -23,9 +23,9 @@
   "cv.tex" 1456352666 8344 35cb3cb4d57b265a6b6f6d60e4c6cb12 ""
   "friggeri-cv.cls" 1456341394 7277 26a2af8f151eced8647806d5c2a708f0 ""
   (generated)
-  "cv.dvi"
   "cv.log"
-["pdflatex"] 1456353369 "cv.tex" "cv.pdf" "cv" 1456354036
+  "cv.dvi"
+["pdflatex"] 1456405491 "cv.tex" "cv.pdf" "cv" 1456405494
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
@@ -169,21 +169,22 @@
   "/usr/local/texlive/2015/texmf-dist/web2c/texmf.cnf" 1428852030 31983 18aeec08f48baa3cf3508d538dd5f459 ""
   "/usr/local/texlive/2015/texmf-var/web2c/xetex/xelatex.fmt" 1456347611 3445935 e6f7ddc8b1de78b1c0e6b219c156ad51 ""
   "/usr/local/texlive/2015/texmf.cnf" 1456348419 600 fae6591ddcd5e2cc4833543462d7a1fa ""
-  "cv.aux" 1456353371 1064 5613920b33b168b791656ba5a0f9e78d ""
-  "cv.bbl" 1456353369 466 09eb4fb3e5c239471bbf545cb1159669 "biber cv"
-  "cv.out" 1456353371 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "cv.run.xml" 1456353371 2328 6ed64dd8dba6e3bddb9f45357a3939d3 ""
-  "cv.tex" 1456353625 8344 35cb3cb4d57b265a6b6f6d60e4c6cb12 ""
+  "cv.aux" 1456405493 1064 5613920b33b168b791656ba5a0f9e78d ""
+  "cv.bbl" 1456392055 466 09eb4fb3e5c239471bbf545cb1159669 "biber cv"
+  "cv.out" 1456405493 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "cv.run.xml" 1456405493 2328 6ed64dd8dba6e3bddb9f45357a3939d3 ""
+  "cv.tex" 1456405490 9132 d291c2ed89557e56cdd1144460eb9ccc ""
   "friggeri-cv.cls" 1456341394 7277 26a2af8f151eced8647806d5c2a708f0 ""
   "img/4stars.png" 1456341394 1272 f76054831795b97b778bd4cbed6f620d ""
   "img/5stars.png" 1456341394 1113 ee9565f33d100444e613f962d78a0388 ""
-  "img/italia.png" 1456341394 48341 370531e178686a2e19b62d653d731b1b ""
+  "img/PhD.png" 1456393490 92409 40c9793298cd9d65c30e604b983611e5 ""
+  "img/map.png" 1456398088 127372 7f1c46c1b277704238df1757fa3f5c16 ""
   "img/personal.png" 1456341394 12635 e61d7a14d92c04f500ee81b30c2a2618 ""
-  "img/programming.pdf" 1456341394 69839 d8775fcb01dce4b6c99cc457ecb9c815 ""
+  "img/programing.png" 1456393410 74172 03061ef07a516a77e5b5ef96f16b3bc8 ""
   (generated)
   "cv.aux"
-  "cv.log"
-  "cv.bcf"
-  "cv.run.xml"
   "cv.out"
+  "cv.run.xml"
+  "cv.bcf"
   "cv.pdf"
+  "cv.log"
