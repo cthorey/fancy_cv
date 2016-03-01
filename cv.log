@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.2.24)  25 FEB 2016 14:04
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.2.24)  29 FEB 2016 20:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1283,12 +1283,19 @@ otf(1)/m/n/10 , Michaut, C., 2015. Elastic-plated gravity current with temperat
 ure-dependent
  []
 
+
+Overfull \hbox (2.56215pt too wide) in paragraph at lines 212--213
+[][][]\EU1/texgyreheros-bold.otf(0)/m/n/10 Thorey, C.[] \EU1/texgyreheros-regul
+ar.otf(1)/m/n/10 and Michaut, C., Effect of a temperature-dependent viscosity o
+n the spread-
+ []
+
 [2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 241.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 241.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 245.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 245.
  (./cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 241.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 241.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 245.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 245.
 Package logreq Info: Writing requests to 'cv.run.xml'.
 \openout1 = `cv.run.xml'.
 
